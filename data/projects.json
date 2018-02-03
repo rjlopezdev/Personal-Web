@@ -1,0 +1,77 @@
+[
+    {
+        "name": "BunckerStudios",
+        "subtitle": "Web SPA",
+        "description": "A Web for BunckerStudios, a music studio.",
+        "collaboration": "false",
+        "status": "success",
+        "version": "1.0.3",
+        "tech_icons": [
+            "angularjs-plain colored",
+            "typescript-plain colored"
+        ],
+        "github_repo": "https://www.github.com/rjlopezdev/bunckerstudios",
+        "web": "http://www.bunckerstudios.com"
+    },
+    {
+        "name": "Java TV Timeline",
+        "subtitle": "A TV timeline for Java Command Line",
+        "description": "A TV Timeline using Web-Scrapping technique.",
+        "collaboration": "false",
+        "status": "success",
+        "version": "1.0.0",
+        "tech_icons": [
+            "java-plain colored",
+            "html5-plain colored"
+        ],
+        "github_repo": "https://www.github.com/rjlopezdev/guia-tv",
+        "web": ""
+    },
+    {
+        "name": "JocomunicoApp",
+        "subtitle": "An AngularJS webApp",
+        "description": "Jocomunico is a free Augmentative and Alternative Communication (AAC) app aimed at persons with severe speech impairments who use pictogram-based communication methods.",
+        "collaboration": "true",
+        "status": "success",
+        "version": "2.0.0",
+        "tech_icons": [
+            "angularjs-plain colored",
+            "php-plain colored",
+            "codeigniter-plain-wordmark colored",
+            "mysql-plain-wordmark colored"
+        ],
+        "github_repo": "https://www.github.com/narum/jocomunicoLAB17",
+        "web": "http://www.jocomunico.com"
+    },
+    {
+        "name": "Am Agile",
+        "subtitle": "Agile management of projects",
+        "description": "Management system for personal projects.",
+        "collaboration": "false",
+        "status": "doing",
+        "version": "0.5.0",
+        "tech_icons": [
+            "express-original-wordmark colored",
+            "angularjs-plain colored",
+            "typescript-plain colored",
+            "mongodb-plain-wordmark colored"
+        ],
+        "github_repo": "https://www.github.com/rjlopezdev/am-agile",
+        "web": ""
+    },
+    {
+        "name": "Agrag",
+        "subtitle": "Management of ganadery",
+        "description": "Management of ganadery for AGRAG",
+        "collaboration": "true",
+        "status": "doing",
+        "version": "0.0.1",
+        "tech_icons": [
+            "django-line colored",
+            "angularjs-plain colored",
+            "postgresql-plain-wordmark colored"
+        ],
+        "github_repo": "https://github.com/rjlopezdev",
+        "web": ""
+    }
+]

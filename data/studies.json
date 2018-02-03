@@ -1,0 +1,56 @@
+[
+    {
+        "degree": "Science Bachellor",
+        "academy": "Ntra. Sra de la Vega",
+        "location": "Spain, Madrid",
+        "description": "Base knowledge for science degree",
+        "type": "schooling",
+        "acreditation_image": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68dd54ca-60cf-4ef7-898b-26d7cbe48ec7/10-dithering-opt.jpg",
+        "info_links": [
+            {
+                "title": "Ntra. Sra de La Vega",
+                "link": "http://www.ntrasradelavega.es/oferta-educativa-bachillerato.html"
+            }
+        ]
+    },
+    {
+        "degree": "Software Engineering",
+        "academy": "Universidad Politécnica de Madrid",
+        "location": "Spain, Madrid",
+        "description": "The Graduate in Software Engineering is a professional with a deep knowledge of computer programming, the implementation and planning of computer systems as well as the phases of the software life cycle, capable of using a systematic, disciplined and quantifiable approach for the development, operation and maintenance of the software and to establish and use solid engineering principles to obtain reliable software that works efficiently in real machines, as well as to estimate the costs of the developments.",
+        "type": "schooling",
+        "info_links": [
+            {
+                "title": "E.T.S.I.S.I. UPM",
+                "link": "https://www.etsisi.upm.es/estudios/grados/61iw/ig"
+            }
+        ]
+    },
+    {
+        "degree": "Node.js + Express + MongoDB",
+        "academy": "KeepCoding",
+        "location": "Spain, Madrid",
+        "description": "Development of web applications with the use of the Express.js framework based on Node.js",
+        "type": "course",
+        "acreditation_image": "assets/acreditation/express.png",
+        "info_links": [
+            {
+                "title": "KeepCoding",
+                "link": "https://plataforma.keepcoding.io/p/curso-javascript-node-js-express-mongodb-completo/"
+            }
+        ]
+    },
+    {
+        "degree": "Docker + docker-compose + Jenkins",
+        "academy": "Telefónica Talentum",
+        "location": "Spain, Madrid",
+        "description": "Containerization and continuous integration of webapps",
+        "type": "course",
+        "info_links": [
+            {
+                "title": "Talentum",
+                "link": "http://www.talentumtelefonica.com/"
+            }
+        ]
+    }
+]

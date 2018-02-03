@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Angular 2+",
+        "icon": "angularjs-plain colored",
+        "tooltip": "Front-End Framework"
+    },
+    {
+        "name": "Express",
+        "icon": "express-original-wordmark colored",
+        "tooltip": "Back-End Framework"
+    },
+    {
+        "name": "Node JS",
+        "icon": "nodejs-plain-wordmark colored",
+        "tooltip": "Node Apps"
+    },
+    {
+        "name": "HTML5",
+        "icon": "html5-plain-wordmark colored",
+        "tooltip": "Web layout designer"
+    },
+    {
+        "name": "CSS3",
+        "icon": "css3-plain-wordmark colored",
+        "tooltip": "CSS3 designer"
+    },
+    {
+        "name": "Javascript",
+        "icon": "javascript-plain colored",
+        "tooltip": "Javascript programmer"
+    },
+    {
+        "name": "Typescript",
+        "icon": "typescript-plain colored",
+        "tooltip": "Typescript programmer"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "bootstrap-plain colored",
+        "tooltip": "Bootstrap components"
+    },
+    {
+        "name": "JQuery",
+        "icon": "jquery-plain-wordmark colored",
+        "tooltip": "Dynamic control from DOM"
+    },
+    {
+        "name": "Java",
+        "icon": "java-plain colored",
+        "tooltip": "Java programmer"
+    },
+    {
+        "name": "C",
+        "icon": "c-plain colored",
+        "tooltip": "C programmer"
+    },
+    {
+        "name": "C++",
+        "icon": "c-plain colored",
+        "tooltip": "C++ programmer"
+    },
+    {
+        "name": "Python",
+        "icon": "python-plain colored",
+        "tooltip": "Python programmer"
+    },
+    {
+        "name": "git",
+        "icon": "git-plain colored",
+        "tooltip": "Versioning"
+    },
+    {
+        "name": "android",
+        "icon": "android-plain-wordmark colored",
+        "tooltip": "Android programmer"
+    },
+    {
+        "name": "Docker",
+        "icon": "docker-plain-wordmark colored",
+        "tooltip": "Docker deployment"
+    }
+]
