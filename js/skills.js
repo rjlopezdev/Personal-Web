@@ -6,9 +6,9 @@ $(document).ready(function () {
                 `
                 <div class="col-4 text-center skill hvr-grow">
                     <i class="fa-5x devicon-${skill.icon}" data-toggle="tooltip" placement="top" title="${skill.tooltip}"></i>
-                    <h1>
+                    <h3>
                         <span class="badge text-center">${skill.name}</span>
-                    </h1>
+                    </h3>
                 </div>
                 `
             );

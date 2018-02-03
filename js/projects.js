@@ -50,7 +50,7 @@ $(document).ready(function () {
                         <p class="card-text">${project.description}</p>
         
                         <!-- Technologies containers -->
-                        <div id="tech-container-${index}" class="row justify-content-center"></div>
+                        <div id="tech-container-${index}" class="row"></div>
 
                         <br>
 
@@ -81,7 +81,7 @@ $(document).ready(function () {
                 //Inject tech icon
                 $(`#tech-container-${index}`).append(
                     `
-                    <div class="col-3 mx-auto">
+                    <div class="col-6 col-sm-3 text-center">
                         <i class="fa-5x devicon-${icon}"></i>
                     </div>
                     `
