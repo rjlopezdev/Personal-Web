@@ -45,6 +45,7 @@
         "location": "Spain, Madrid",
         "description": "Containerization and continuous integration of webapps",
         "type": "course",
+        "acreditation_image": "assets/acreditation/docker.png",
         "info_links": [
             {
                 "title": "Talentum",
